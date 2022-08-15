@@ -8,5 +8,3 @@ slug = "contact"
 - Discord: https://discord.com/invite/xHC9fBfeVW
 - Telegram: https://t.me/PlotBridge
 - Twitter: https://twitter.com/plot_bridge</b>
-
-test 1111111111
