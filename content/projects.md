@@ -23,3 +23,5 @@ PlotBridge is a gateway/bridge between various plot-based blockchain networks (P
 
 
 <b>We are always in the process of improving to provide a better user experience, so stay tuned.</b>
+
+12
